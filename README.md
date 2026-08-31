@@ -1,23 +1,23 @@
 <pre>
 ##########################################################################################################################################
 #                                                                                                                                        #
-#  / MEHMET BURAK KARAKAS / ATOM EDITION                                                                                                 #
+#  / MEHMET BURAK KARAKAS / XP EDITION                                                                                                   #
 #                                                                                                                                        #
-#                 _.-" "-._                                 <-- / About Me / -->                                                         #
-#               .'         '.                               Mehmet Burak Karakas is an artist born in Silivri, Istanbul, originally      #
-#              /             \                              from Tekirdag. Since childhood, he has been passionate about drawing         #
-#         _.-"|               |"-._                         cartoons, and over time, he has specialized in character design, game        #
-#       .'    \               /    '.                       development, and animation.                                                  #
-#      /       '.           .'       \                                                                                                   #
-#     |          '-._   _.-'          |                     He graduated from the Department of Cartoon and Animation at the Faculty     #
-#     |              '+'              |                     of Fine Arts, Dokuz Eylül University, completing a 4-year program. He also   #
-#     |          _.-'   '-._          |                     completed a second bachelor's degree in Visual Communication Design at       #
-#      \       .'           '.       /                      Anadolu University.                                                          #
-#       '.    /               \    .'                                                                                                    #
-#         "-._|               |_.-"                         Among his notable projects is the 2024 animated documentary "Favela Izmir",  #
-#              \             /                              which draws parallels between Kadifekale in Izmir and the favelas of Brazil. #
-#               '.         .'                               In 2025, he developed the video game "Sector 9: The Awakening", for which    #
-#                 "-._ _.-"                                 he designed all characters, animation sprites, and 3D environment models     #
+#                                                           <-- / About Me / -->                                                         #
+#            .::::.          .::::.                         Mehmet Burak Karakas is an artist born in Silivri, Istanbul, originally      #
+#          .::::::::.      .::::::::.                       from Tekirdag. Since childhood, he has been passionate about drawing         #
+#           __ __ __  __   __       ___        __           cartoons, and over time, he has specialized in character design, game        #
+#          / // // / / /_ / /__    /   | _____/ /_          development, and animation.                                                  #
+#         / // // / / __ \/ /_/   / /| |/ ___/ __/                                                                                       #
+#        /_//_//_/ /_.__/_/\_\_  / ___ / /  /_/             He graduated from the Department of Cartoon and Animation at the Faculty     #
+#         /_//_//_/ /_.__/_/\_\_  /_/  |/_/  /_/            of Fine Arts, Dokuz Eylül University, completing a 4-year program. He also   #
+#          /_//_//_/ /_.__/_/\_\_  /_/  |/_/  /_/           completed a second bachelor's degree in Visual Communication Design at       #
+#           /_//_//_/ /_.__/_/\_\_  /_/  |/_/  /_/          Anadolu University.                                                          #
+#          .::::::::.      .::::::::.                                                                                                    #
+#            .::::.          .::::.                         Among his notable projects is the 2024 animated documentary "Favela Izmir",  #
+#                                                           which draws parallels between Kadifekale in Izmir and the favelas of Brazil. #
+#                                                           In 2025, he developed the video game "Sector 9: The Awakening", for which    #
+#                                                           he designed all characters, animation sprites, and 3D environment models     #
 #                                                           himself, using artificial intelligence only in the coding process.           #
 #  Atomtan ~~~ ---------------------------------                                                                                         #
 #  OS:             Windows 11 Pro                           As for collaborative works, one of the highlights is the animated film       #
