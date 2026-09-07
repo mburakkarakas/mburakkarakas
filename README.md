@@ -1,4 +1,3 @@
-<pre>
 +==/^\======================================================================================/^\==+
 |  \V/                                                                                      \V/  |
 |  / MEHMET BURAK KARAKAS / TEKIRDAG /                                                           |
@@ -11,28 +10,32 @@
 | /_//_//_/ /_.__/_/\_\_  / ___ / /  /_/        specialized in character design, game            |
 |  /_//_//_/ /_.__/_/\_\_ /_/  |/_/  /_/        development, and animation.                      |
 |   /_//_//_/ /_.__/_/\_\_/_/  |/_/  /_/                                                         |
-|     .::::::::.  .::::::::.                    He graduated from the Dept. of Cartoon and       |
-|       .::::.      .::::.                      Animation at the Faculty of Fine Arts, Dokuz     |
-|                                               Eylul University (4-year program). He also       |
-| Atomtan ~~~ --------------------------------- holds a second bachelor's degree in Visual       |
-| OS:       Windows 11 Pro                      Comm. Design at Anadolu University.              |
-| Roles:    3D Modeler, Animator,                                                                |
-|           Character Design, Game Dev.         Notable projects include the 2024 animated       |
-| Host:     mburakkarakas.art                   documentary "Favela Izmir" (Kadifekale & Brazil  |
-| IDE:      Unity, Blender, Photoshop,          favela parallels), and the 2025 video game       |
-|           Premier, Vibe Coding, AI            "Sector 9: The Awakening", where he handled all  |
-| Skills:   Character Design, 2D/3D             character designs, sprites, and 3D environments, |
-|           Animation, 3D Modeling              using AI solely for the coding process.          |
-| Coding:   Python, C#, GDScript, JS                                                             |
-| Language: Turkish (Nat), English (Mid)        Collaborative highlights include the film        |
-| Works:    Sector 9: The Awakening,            "The Rhythm of Izmir" (awarded in Itabuna,       |
-|           Favela Izmir, Mind Halt,            Brazil), and 3D contributions to "Mind Halt".    |
+|     .::::::::.  .::::::::.                    He graduated from the Department of Cartoon      |
+|       .::::.      .::::.                      and Animation at the Faculty of Fine Arts,       |
+|                                               Dokuz Eylül University, completing a 4-year      |
+| Atomtan ~~~ --------------------------------- program. He also completed a second bachelor’s   |
+| OS:       Windows 11 Pro                      degree in Visual Communication Design at         |
+| Roles:    3D Modeler, Animator,               Anadolu University. He is currently pursuing a   |
+|           Character Design, Game Dev.         master’s degree in History at Namık Kemal        |
+| Host:     mburakkarakas.art                   University, further expanding his interests      |
+| IDE:      Unity, Blender, Photoshop,          into cultural and historical studies.            |
+|           Premier, Vibe Coding, AI                                                             |
+| Skills:   Character Design, 2D/3D             Notable projects include the 2024 animated       |
+|           Animation, 3D Modeling              documentary "Favela Izmir" (Kadifekale & Brazil  |
+| Coding:   Python, C#, GDScript, JS            favela parallels), and the 2025 video game       |
+| Language: Turkish (Nat), English (Mid)        "Sector 9: The Awakening", where he handled all  |
+| Works:    Sector 9: The Awakening,            character designs, sprites, and 3D environments, |
+|           Favela Izmir, Mind Halt,            using AI solely for the coding process.          |
 |           Rhythm of Izmir,                                                                     |
-|           Primitivist Anadolu                 He continually engages in projects that combine  |
-|                                               technical expertise with his unique creative     |
-| <-- / Contact & Socials / -->                 vision.                                          |
+|           Primitivist Anadolu                 Collaborative highlights include the film        |
+|                                               "The Rhythm of Izmir" (awarded in Itabuna,       |
+| <-- / Contact & Socials / -->                 Brazil), and 3D contributions to "Mind Halt".    |
 | Email:     mburakkarakas@outlook.com                                                           |
-| LinkedIn:  in/mburakkarakas                   ------------------------------------------------ |
-| GitHub:    Repos: 2 | Followers: 0            Portfolio: mburakkarakas.art                     |
+| LinkedIn:  in/mburakkarakas                   He continually engages in projects that combine  |
+| GitHub:    Repos: 2 | Followers: 0            technical expertise with his unique creative     |
+|                                               vision.                                          |
+|                                                                                                |
+|                                               ------------------------------------------------ |
+|                                               Portfolio: mburakkarakas.art                     |
 |  /^\                                                                                      /^\  |
 +==\V/======================================================================================\V/==+
