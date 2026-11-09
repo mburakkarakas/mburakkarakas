@@ -31,7 +31,7 @@
 |           Primitivist Anadolu                 He continually engages in projects that combine  |
 |                                               technical expertise with his unique creative     |
 | <-- / Contact & Socials / -->                 vision.                                          |
-| Email:     mburakkarakas@outlook.com                                                           |
+| Email:     contact@mburakkarakas.art                                                           |
 | LinkedIn:  in/mburakkarakas                   ------------------------------------------------ |
 | GitHub:    Repos: 2 | Followers: 0            Portfolio: mburakkarakas.art                     |
 |  /^\                                                                                      /^\  |
